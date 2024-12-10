@@ -1,0 +1,50 @@
+html, body{
+    margin: 0;
+    background-color: #3a3335; /*#e691ff;*/
+    font-size: 30px;
+    line-height:1.6em;
+    font-weight: 300;
+    color: #fffef1; /*#263333;*/
+    text-transform: uppercase;
+}
+button{
+    box-sizing: border-box;
+    text-align: center;
+    text-shadow: -2px 2px #1a9c71; /*#e691ff;*/
+    color: #fffef1; /*#413F40;*/
+    text-transform: uppercase;
+    font-size: 1em;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: 'Varela Round', sans-serif;
+    background-color: #1ec38c; /*#adfff8;*/
+    letter-spacing: 3px;
+}
+
+#studentName{
+    box-sizing: border-box;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+    color: #fffef1; /*#413F40;*/
+    font-family: 'Varela Round', sans-serif;
+    background-color:#ff674d;/*#FDE3A6;*/
+    text-shadow: -3px 3px #eb624a;/*#F8BC91;*/
+    letter-spacing: 3px;
+    height: 100%;
+}
+#topDesign{
+    margin-top: 10%;
+}
+div{
+    font-family: 'Varela Round', sans-serif;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+    text-shadow: -2px 2px #e691ff;
+    color: #fffef1; /*#413F40;*/
+    background-color: #adfff8;
+    width: 70%;
+}
